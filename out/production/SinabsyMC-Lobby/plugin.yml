@@ -1,0 +1,15 @@
+name: SinabsyLobby
+author: Gabriel__l
+version: 1.0
+main: fr.sinabsymc.lobby.SinabsyLobby
+commands:
+  stand:
+    description: L'amorStand du NPC Fallen Kingdoms
+  standhost:
+    description: L'amorStand des Serveurs Personnalisées
+  servers:
+    description: Avoir la Liste entière de tout les serveurs de l'infrastructure !
+  annonce:
+    description: Créer une annonce sur toute l'instance !
+  close:
+    description: Ferme le Serveur
